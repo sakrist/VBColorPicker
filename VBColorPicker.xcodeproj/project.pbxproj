@@ -258,6 +258,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "VBColorPicker/VBColorPicker-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -270,6 +271,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "VBColorPicker/VBColorPicker-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -293,6 +295,7 @@
 				D2974465145AEC140059A025 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
